@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SapDemoMvc/1.0.0": {
+        "runtime": {
+          "SapDemoMvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SapDemoMvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
